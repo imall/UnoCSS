@@ -1,0 +1,25 @@
+{
+  "name": "uno-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@unocss/reset": "^0.56.5",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@iconify-json/bi": "^1.1.20",
+    "@iconify-json/logos": "^1.1.37",
+    "@iconify-json/mdi": "^1.1.54",
+    "@unocss/preset-icons": "^0.56.5",
+    "@unocss/transformer-directives": "^0.56.5",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "unocss": "^0.56.5",
+    "vite": "^4.4.5"
+  }
+}
